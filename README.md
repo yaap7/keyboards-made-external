@@ -2,12 +2,14 @@
 
 ## Prochaines étapes
 
-* [ ] Comparer le pas de k02 et k03 aux connecteurs FFC de 1 mm.
-* [ ] Acheter :
-  * des connecteurs FFC de 30 pins en pas de 0,8 mm + adaptateurs vers des headers classiques
-  * des connecteurs FFC de 4 pins en pas de 1 mm + adaptateurs vers des headers classiques
-  * peut-être d'autres version pour k02 et k03
+* [ ] Acheter le matériel nécessaire
+* [x] Comparer le pas de k02 et k03 aux connecteurs FFC de 1 mm.
 * [x] Commencer un projet github pour centraliser les notes et mettre des photos
+
+## Matériel nécessaire
+
+* Adaptateur FFC 30 pins de 0,8 mm vers headers classiques (pour k01)
+* Adaptateur FFC 24 pins de 0,8 mm vers headers classiques (pour k03)
 
 ## Lexique
 
@@ -57,9 +59,7 @@ Mais l'avantage c'est qu'il sera assez facilement transportable.
 
 ![Nappe de k02](images/k02_pins.jpg)
 
-26 pins avec un pas qui semble un poil plus étroit que 1 mm.
-
-Je vais le comparer avec un connecteur FFC de 1 mm pour voir si ça tombe bien.
+25 pins (⁉️) avec un pas de 1 mm.
 
 ### k03
 
@@ -76,4 +76,4 @@ J'aime mieux les touches de direction de k02 par rapport à k03.
 
 ![Nappe de k03](images/k03_pins.jpg)
 
-25 pins (⁉️) avec un pas de 1 mm.
+24 pins avec un pas de 0,8 mm.
