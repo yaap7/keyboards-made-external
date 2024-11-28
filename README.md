@@ -76,6 +76,4 @@ J'aime mieux les touches de direction de k02 par rapport à k03.
 
 ![Nappe de k03](images/k03_pins.jpg)
 
-24 pins avec un pas qui semble plus étroit que 0,8 mm mais plus grand que 
-
-Je vais le comparer avec un connecteur FFC de 1 mm pour voir si ça tombe bien.
+25 pins (⁉️) avec un pas de 1 mm.
