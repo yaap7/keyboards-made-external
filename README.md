@@ -1,10 +1,26 @@
 # keyboards-made-external
 
-## Prochaines étapes
+## État d'avancement
+
+Les claviers sont identifiés.
+La difficulté est dans le pas de 0,8mm de 2 des nappes les plus intéressantes.
+Pour les autres, j'ai commandé un autre fer à souder pour être plus à l'aise et des breadboard pour prototyper. Commande en cours sur Amazon. ça arrivera le jeudi 29 mai 2025.
+
+Idée : je pourrais voir s'il y a quelque chose de récupérable sur les cartes mères des PC dont proviennent les petits claviers ?
+
+### Prochaines étapes
 
 * [ ] Acheter le matériel nécessaire
+* [ ] Acheter plus de matériel pour m'entrainer avant de souder les headers du teensy ...
+* [ ] Ensuite, continuer à l'étape 9 du tutoriel principal.
+* [x] Refaire la liste des articles et tutoriels sur lesquels je me base. là je recommence à zéro, c'est tellement de temps de perdu :(
 * [x] Comparer le pas de k02 et k03 aux connecteurs FFC de 1 mm.
 * [x] Commencer un projet github pour centraliser les notes et mettre des photos
+
+## Documentation
+
+* Sûrement le meilleur tutoriel à l'heure actuelle : <https://www.instructables.com/How-to-Make-a-USB-Laptop-Keyboard-Controller/>
+* avec son github associé : <https://github.com/thedalles77/USB_Laptop_Keyboard_Controller>
 
 ## Matériel nécessaire
 
